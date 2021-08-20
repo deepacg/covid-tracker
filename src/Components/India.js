@@ -36,7 +36,7 @@ class India extends Component{
                             <Card.Title>Total cases</Card.Title>
                             <h2>{this.state.data.cases}</h2>
                             <Card.Text>
-                            [Today: {this.state.data.todayCases}]
+                            
                             </Card.Text>
                             
                         </Card.Body>
