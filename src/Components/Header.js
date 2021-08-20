@@ -17,7 +17,6 @@ class Header extends Component{
                     <Nav className="me-auto">
                     <Link className='nav-link' to="/india">India</Link>
                     <Link className='nav-link' to="/world">World</Link>
-                    <Link className='nav-link' to="/states">State wise</Link>
                 
                     </Nav>
                    
