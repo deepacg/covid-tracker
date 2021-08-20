@@ -11,7 +11,7 @@ class Header extends Component{
             <>
                 <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
                 <Container>
-                <Navbar.Brand href="#home">COVID-19</Navbar.Brand>
+                <Navbar.Brand href="/">COVID-19 Status</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">
