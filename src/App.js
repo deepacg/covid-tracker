@@ -27,16 +27,16 @@ class App extends Component{
           <Router>
           <Header/>
             <Switch>
-              <Route exact path='/'>
+              <Route exact path='/covid-tracker'>
                 <India/>
               </Route>
-              <Route path='/india'>
+              <Route path='/covid-tracker/india'>
                 <India/>
               </Route>
-              <Route path='/world'>
+              <Route path='/covid-tracker/world'>
                 <World/>
               </Route>
-              <Route path='/states'>
+              <Route path='/covid-tracker/states'>
                 <States/>
               </Route>
             </Switch>
